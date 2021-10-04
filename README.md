@@ -10,7 +10,9 @@
 
 # Demo-Preview
 ![user](https://github.com/2812046929/pictures/blob/main/user.jpg)
+
 ![window](https://github.com/2812046929/pictures/blob/main/window.png)
+
 ![user_with_mask](https://github.com/2812046929/pictures/blob/main/user-with-mask1.jpg)
 # Table of contents
 
@@ -20,11 +22,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Development](#development)
-- [Contribute](#contribute)
-    - [Sponsor](#sponsor)
-    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
-- [License](#license)
-- [Footer](#footer)
+- [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
 
 # Installation
 [(Back to top)](#table-of-contents)
@@ -53,7 +51,7 @@ FaceMasker类：提取面部信息和处理图片。若提高口罩对不同脸�
 myQGraphicsScene类：响应鼠标点击事件。
 
 
-### Adding new features or fixing bugs
+# Adding new features or fixing bugs
 [(Back to top)](#table-of-contents)
 
 由于这个程序的应用较为广泛，可以用于微信小程序等场景。
