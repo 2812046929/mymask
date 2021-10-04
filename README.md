@@ -16,7 +16,7 @@
 ![user_with_mask](https://github.com/2812046929/pictures/blob/main/user-with-mask1.jpg)
 # Table of contents
 
-- [Project Title](#project-title)
+- [mymask](#mymask)
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
